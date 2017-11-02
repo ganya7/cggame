@@ -104,4 +104,4 @@ int main()
 	getch();
 	closegraph();
 	return 0;
-}
+} //end of program
